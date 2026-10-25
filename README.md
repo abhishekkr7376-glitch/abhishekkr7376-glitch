@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishek Kumar!
 
-<!--
-**abhishekkr7376-glitch/abhishekkr7376-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 B.Tech Data Science Student | C++ & DSA Learner | Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+I'm a passionate learner who enjoys solving problems, exploring new technologies, and building projects. I'm currently learning **Data Structures and Algorithms in C++** and working toward becoming a **Frontend Developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm excited to participate in hackathons, collaborate with developers, and turn ideas into real-world projects! 🚀
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** C, C++
+- **Problem Solving:** Data Structures & Algorithms (Learning)
+- **Web Development:** Aspiring Frontend Developer
+- **Tools:** Git, GitHub, VS Code
+
+### 🌱 Currently Learning
+
+- 📌 DSA in C++
+- 🌐 Frontend Development
+- 🔧 Git & GitHub
+- 💡 Problem Solving and Competitive Programming
+
+### 🎯 My Goals
+
+- 🚀 Participate in hackathons and build innovative projects.
+- 💻 Improve my problem-solving skills with C++.
+- 🌐 Build interactive and responsive websites.
+- 🤝 Collaborate with other developers and contribute to open-source projects.
+- 📈 Continuously learn and grow as a developer.
+
+### 🤝 Let's Connect!
+
+I'm open to connecting with fellow developers, learning together, and collaborating on exciting projects.
+
+**Let's learn, build, and innovate together!** 🚀
